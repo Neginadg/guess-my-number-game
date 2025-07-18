@@ -29,4 +29,4 @@ Simply open the `index.html` file in your web browser to start playing!
 
 ## Live Demo
 
-[Add your GitHub Pages link here once deployed]
+(https://github.com/Neginadg/guess-my-number-game)
